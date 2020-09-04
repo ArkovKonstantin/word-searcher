@@ -13,9 +13,4 @@ $ echo -e 'https://golang.org\n/etc/passwd\nhttps://golang.org\nhttps://golang.o
 ```
 $ go test -v
 ```
-![Image alt](https://github.com/ArkovKonstantin/word-searcher/raw/master/image.png)
-
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
+![Image](https://github.com/ArkovKonstantin/word-searcher/raw/master/schema.png)
