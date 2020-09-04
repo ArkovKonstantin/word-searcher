@@ -13,4 +13,5 @@ $ echo -e 'https://golang.org\n/etc/passwd\nhttps://golang.org\nhttps://golang.o
 ```
 $ go test -v
 ```
+### Схема
 ![Image](https://github.com/ArkovKonstantin/word-searcher/raw/master/schema.png)
