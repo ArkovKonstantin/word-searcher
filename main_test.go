@@ -41,7 +41,6 @@ func (p *Pool) testStart() {
 				p.workerJobs <- j
 			}
 		}
-		fmt.Println(currSize)
 		close(p.workerJobs)
 	}()
 }
